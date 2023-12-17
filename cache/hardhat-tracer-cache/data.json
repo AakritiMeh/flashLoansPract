@@ -1,0 +1,35 @@
+{
+  "tokenDecimals": [
+    [
+      "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+      18
+    ],
+    [
+      "0x5fc8d32690cc91d4c39d9d3abcbd16989f875707",
+      18
+    ]
+  ],
+  "contractNames": [
+    [
+      "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+      "DAPP"
+    ],
+    [
+      "0xe7f1725e7734ce288f8367e1bb143e90bb3f0512",
+      "unknown"
+    ],
+    [
+      "0x5fc8d32690cc91d4c39d9d3abcbd16989f875707",
+      "DAPP"
+    ],
+    [
+      "0x0165878a594ca255338adfa4d48449f69242eb8f",
+      "unknown"
+    ],
+    [
+      "0x8a791620dd6260079bf849dc5567adc3f2fdc318",
+      "unknown"
+    ]
+  ],
+  "fourByteDir": []
+}
